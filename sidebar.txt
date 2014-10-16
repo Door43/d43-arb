@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[arb:home|Door43 (arb)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-arb|d43-arb repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-arb/archive/master.zip|d43-arb.zip]]
+
+**Recent Changes**
+{{changes>ns = arb}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/arb|Ethnologue data]]
+
